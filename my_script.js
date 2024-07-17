@@ -10,7 +10,7 @@ age:25
 let arr=[1,"im"];
 
 console.log(arr[1]);
-alert("welcome ${name}");
+alert(`welcome ${name}`);
 let name_input=prompt("what is your name");
 
 
